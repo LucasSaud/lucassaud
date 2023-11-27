@@ -8,4 +8,4 @@
 
 📱 I'm always eager to connect with fellow developers, embark on exciting collaborations, and exchange inspiring ideas. Drop me a line at lucassaud9@gmail.com or connect with me on Instagram. Let's craft something extraordinary together!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<img src="https://img.shields.io/static/v1?label=Overview&message=lucassaud&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
