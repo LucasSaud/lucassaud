@@ -8,3 +8,5 @@
 
 📱 I'm always eager to connect with fellow developers, embark on exciting collaborations, and exchange inspiring ideas. Drop me a line at lucassaud9@gmail.com or connect with me on Instagram. Let's craft something extraordinary together!
 <hr>
+
+❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/lucassaud).
