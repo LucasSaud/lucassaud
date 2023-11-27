@@ -7,5 +7,4 @@
 🌐 Embracing the ethos of open-source, I actively contribute to various GitHub projects, believing in the collective strength of the developer community. Sharing knowledge is a key tenet for me, and you're invited to explore my contributions!
 
 📱 I'm always eager to connect with fellow developers, embark on exciting collaborations, and exchange inspiring ideas. Drop me a line at lucassaud9@gmail.com or connect with me on Instagram. Let's craft something extraordinary together!
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=lucassaud&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<hr>
