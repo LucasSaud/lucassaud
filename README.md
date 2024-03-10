@@ -1,1 +1,1 @@
-👋 Greetings! I'm Lucas Saud, a student\ of typescript. 
+👋 Greetings! I'm Lucas Saud, a student.
