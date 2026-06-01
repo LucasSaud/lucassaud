@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Saud
 
-**Senior Software Engineer | System Architect | Full-Stack Developer**
+**Full-Stack Enginer**
 
 Sou um desenvolvedor apaixonado por criar produtos digitais, plataformas SaaS e soluções de alto impacto com foco em arquiteturas de alta performance e código limpo. Meu trabalho é direcionado para a construção de sistemas modernos, priorizando interfaces minimalistas e eficientes.
 
