@@ -26,15 +26,6 @@ Sou um desenvolvedor apaixonado por criar produtos digitais, plataformas SaaS e 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassaud&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaud&layout=compact&theme=transparent&hide_border=true" height="150" alt="Linguagens mais usadas"/>
-</div>
-
----
-
 ### ☕ Apoie meu trabalho
 
 Se você gosta do que eu faço e quer contribuir com um café (ou uma coxinha), ficarei muito grato! Use a chave PIX abaixo:
